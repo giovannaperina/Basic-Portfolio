@@ -18,4 +18,5 @@ A professional portfolio site using HTML/CSS.
 ### Hover 
 ---
 Simple hover effects.
-![hoverEffects](assets/images/hover1.gif)
+<!-- ![hoverEffects](assets/images/hover1.gif width="100px") -->
+<img src="assets/images/hover1.gif"  width="500"/>
